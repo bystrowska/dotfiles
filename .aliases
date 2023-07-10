@@ -1,0 +1,4 @@
+alias icloud='cd "/Users/pau/Library/Mobile Documents/com~apple~CloudDocs"'
+alias dc='docker-compose'
+alias g='git'
+alias dotf='/usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME'
