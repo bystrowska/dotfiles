@@ -2,3 +2,5 @@
 function mk() {
   mkdir -p "$@" && cd "$@"
 }
+
+eval "$(/opt/homebrew/bin/brew shellenv)"
